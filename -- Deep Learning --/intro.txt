@@ -1,6 +1,9 @@
 
 - Tensorflow : 1. One of the most popular
-               2. Google
+               2. Built by Google
                3. Core :- C/C++ for speed
                4. Tensorflow is accessible to other languages like Javascript, JAVA etc
-               
+
+# Tensor: - 1 Dimensional vector is called 1D Tensor similary for 2D matrix its 2D Tensor
+          - for 3-D its a 3D Tensor
+          - Tensor can understood as N-Dimensional array.
